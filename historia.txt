@@ -2,6 +2,8 @@ Hola, este es un cambio al inicio
 
 William , 36 years old, voy a cumplir 37
 
+Hola Soy William Odoo, esta es mi parte de la historia
+
 Pruebas de código
 
 
