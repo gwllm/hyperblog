@@ -6,6 +6,7 @@ Hola Soy William Odoo, estoy contribuyendo en este proyecto Open Source
 
 Pruebas de código
 
+Agregando una nueva linea, en la clase de rebase
 
 Este es un cambio en una linea
 
