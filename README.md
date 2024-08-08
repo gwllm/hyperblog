@@ -1,6 +1,8 @@
 #Hyperblog
-Un blog para pruebas con Git y GitHub
-
+<p>Un blog para pruebas con Git y GitHub</p>
+<p align="center">
+  <img src="https://i.imgur.com/3r2xTn2.png" alt="Logo" width="50%">
+</p>
 > Este espacio fue creado para repasar los comandos de git mas comunes en un trabajo colaborativo de desarrollo.
 
 ![](https://img.shields.io/badge/tag-v0.1-8A2BE2) 
@@ -14,5 +16,3 @@ Un blog para pruebas con Git y GitHub
 - Flujo de trabajo en github.
 
 Este es un proyecto personal :)
-
-![](https://raw.githubusercontent.com/gwllm/hyperblog/main/images/astro-logo.png)
