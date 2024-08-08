@@ -7,7 +7,6 @@ Un blog para pruebas con Git y GitHub
 
 **Entre lo mas destacado:**
 
-[TOC]
 - Los comandos mas comunes: pull, push, commit, merge.
 - Manejo de ramas.
 - Solucion de conflictos de merge.
