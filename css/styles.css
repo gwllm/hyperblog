@@ -43,6 +43,7 @@ body
 #container h1
 {
     font-size: 30px;
+    text-align: center;
 }
 
 #post
@@ -53,7 +54,7 @@ body
 
 #footer
 {
-    background: #777;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: 0.5em;
