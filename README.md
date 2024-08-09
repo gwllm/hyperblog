@@ -13,7 +13,8 @@
 - Manejo de ramas.
 - Solucion de conflictos de merge.
 - Ejemplo de un deploy.
-- Flujo de trabajo en github.
+- Flujo de trabajo en Github.
 - Pull Request - Github.
+- Manejo de Rebase y Stash.
 
 Este es un proyecto personal :)
