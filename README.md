@@ -9,10 +9,12 @@
 
 **Entre lo mas destacado:**
 
-- Los comandos mas comunes: pull, push, commit, merge.
+- Los comandos mas comunes: commit, pull, push, commit, merge.
 - Manejo de ramas.
 - Solucion de conflictos de merge.
 - Ejemplo de un deploy.
-- Flujo de trabajo en github.
+- Flujo de trabajo en Github.
+- Pull Request - Github.
+- Manejo de Rebase y Stash.
 
 Este es un proyecto personal :)
